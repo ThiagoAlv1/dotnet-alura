@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\bin\Debug\net6.0\9-SwitchCase.exe
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\bin\Debug\net6.0\9-SwitchCase.deps.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\bin\Debug\net6.0\9-SwitchCase.runtimeconfig.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\bin\Debug\net6.0\9-SwitchCase.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\bin\Debug\net6.0\9-SwitchCase.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\refint\9-SwitchCase.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\9-SwitchCase.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\9-SwitchCase\obj\Debug\net6.0\ref\9-SwitchCase.dll

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\1-olaMundo\\1-olaMundo.csproj",
-      "projectName": "1-olaMundo",
-      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\1-olaMundo\\1-olaMundo.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\1-olaMundo\\01-olaMundo.csproj",
+      "projectName": "01-olaMundo",
+      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\1-olaMundo\\01-olaMundo.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\1-olaMundo\\obj\\",
       "projectStyle": "PackageReference",

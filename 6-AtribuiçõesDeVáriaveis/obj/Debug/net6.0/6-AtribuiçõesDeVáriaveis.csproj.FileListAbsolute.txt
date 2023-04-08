@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\bin\Debug\net6.0\6-AtribuiçõesDeVáriaveis.exe
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\bin\Debug\net6.0\6-AtribuiçõesDeVáriaveis.deps.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\bin\Debug\net6.0\6-AtribuiçõesDeVáriaveis.runtimeconfig.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\bin\Debug\net6.0\6-AtribuiçõesDeVáriaveis.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\bin\Debug\net6.0\6-AtribuiçõesDeVáriaveis.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\refint\6-AtribuiçõesDeVáriaveis.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\6-AtribuiçõesDeVáriaveis.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\6-AtribuiçõesDeVáriaveis\obj\Debug\net6.0\ref\6-AtribuiçõesDeVáriaveis.dll

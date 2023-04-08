@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
-      "projectName": "3-CriandoVariaveisPontoFlutuante",
-      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\03-CriandoVariaveisPontoFlutuante.csproj",
+      "projectName": "03-CriandoVariaveisPontoFlutuante",
+      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\03-CriandoVariaveisPontoFlutuante.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\3-CriandoVariaveisPontoFlutuante\\obj\\",
       "projectStyle": "PackageReference",

@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
-      "projectName": "2-CriandoVariaveis",
-      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\2-CriandoVariaveis.csproj",
+      "projectUniqueName": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\02-CriandoVariaveis.csproj",
+      "projectName": "02-CriandoVariaveis",
+      "projectPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\02-CriandoVariaveis.csproj",
       "packagesPath": "C:\\Users\\Thiago\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Thiago\\source\\repos\\AprendendoCSharp\\2-CriandoVariaveis\\obj\\",
       "projectStyle": "PackageReference",

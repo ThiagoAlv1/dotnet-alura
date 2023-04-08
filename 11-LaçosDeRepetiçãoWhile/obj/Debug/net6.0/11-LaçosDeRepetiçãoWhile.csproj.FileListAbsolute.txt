@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\bin\Debug\net6.0\11-LaçosDeRepetiçãoWhile.exe
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\bin\Debug\net6.0\11-LaçosDeRepetiçãoWhile.deps.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\bin\Debug\net6.0\11-LaçosDeRepetiçãoWhile.runtimeconfig.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\bin\Debug\net6.0\11-LaçosDeRepetiçãoWhile.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\bin\Debug\net6.0\11-LaçosDeRepetiçãoWhile.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\refint\11-LaçosDeRepetiçãoWhile.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\11-LaçosDeRepetiçãoWhile.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\11-LaçosDeRepetiçãoWhile\obj\Debug\net6.0\ref\11-LaçosDeRepetiçãoWhile.dll
