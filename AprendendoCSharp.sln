@@ -21,17 +21,21 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Condicionais2", "8-Condi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Escopo", "9-Escopo\09-Escopo.csproj", "{180216E7-3304-4767-9DFE-5EF3EFF5AF80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1 - AliquotaComIfs", "AliquotaComIfs\Ex1 - AliquotaComIfs.csproj", "{A2FF7141-8327-4632-B11B-D1AC03F0ADAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex1 - AliquotaComIfs", "AliquotaComIfs\Ex1 - AliquotaComIfs.csproj", "{A2FF7141-8327-4632-B11B-D1AC03F0ADAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-SwitchCase", "9-SwitchCase\10-SwitchCase.csproj", "{8503337C-DD6A-464E-B181-79A766705A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-CalculaPoupança1", "11-LaçosDeRepetiçãoWhile\11-CalculaPoupança1.csproj", "{6B5189C1-C1D4-4D73-AE5F-DEB6C8E5F227}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-CalculaPoupança1", "11-LaçosDeRepetiçãoWhile\11-CalculaPoupança1.csproj", "{6B5189C1-C1D4-4D73-AE5F-DEB6C8E5F227}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-CalculaPoupança2", "12-CalculaPoupança2\12-CalculaPoupança2.csproj", "{A162345A-4241-486C-95F5-2E20176CB7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-CalculaPoupança2", "12-CalculaPoupança2\12-CalculaPoupança2.csproj", "{A162345A-4241-486C-95F5-2E20176CB7E5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InvestimentoALongoPrazo", "13\13-InvestimentoALongoPrazo.csproj", "{FE1C393A-091B-4A5C-A889-03124097433D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-EncadeandoFor", "14-EncadeandoFor\14-EncadeandoFor.csproj", "{59D71DF5-0DFA-4E68-901C-6252CE93E1F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-EncadeandoFor", "14-EncadeandoFor\14-EncadeandoFor.csproj", "{59D71DF5-0DFA-4E68-901C-6252CE93E1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2-MultiplosDe3", "Ex2-MultiplosDe3\Ex2-MultiplosDe3.csproj", "{D65012E5-1A6A-4930-A7F6-E2CD8BA53A15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3-Fatorial", "Ex3-Fatorial\Ex3-Fatorial.csproj", "{D40B0BA4-9A6D-4E5A-9225-090F6AA10F3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{59D71DF5-0DFA-4E68-901C-6252CE93E1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59D71DF5-0DFA-4E68-901C-6252CE93E1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59D71DF5-0DFA-4E68-901C-6252CE93E1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65012E5-1A6A-4930-A7F6-E2CD8BA53A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65012E5-1A6A-4930-A7F6-E2CD8BA53A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65012E5-1A6A-4930-A7F6-E2CD8BA53A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65012E5-1A6A-4930-A7F6-E2CD8BA53A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40B0BA4-9A6D-4E5A-9225-090F6AA10F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40B0BA4-9A6D-4E5A-9225-090F6AA10F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40B0BA4-9A6D-4E5A-9225-090F6AA10F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40B0BA4-9A6D-4E5A-9225-090F6AA10F3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.csproj.AssemblyReference.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.AssemblyInfoInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.AssemblyInfo.cs
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\bin\Debug\net6.0\Ex3-Fatorial.exe
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\bin\Debug\net6.0\Ex3-Fatorial.deps.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\bin\Debug\net6.0\Ex3-Fatorial.runtimeconfig.json
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\bin\Debug\net6.0\Ex3-Fatorial.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\bin\Debug\net6.0\Ex3-Fatorial.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\refint\Ex3-Fatorial.dll
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.pdb
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\Ex3-Fatorial.genruntimeconfig.cache
+C:\Users\Thiago\source\repos\AprendendoCSharp\Ex3-Fatorial\obj\Debug\net6.0\ref\Ex3-Fatorial.dll
